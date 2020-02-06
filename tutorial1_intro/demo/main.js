@@ -12,7 +12,8 @@ d3.csv("../../data/surveyResults.csv").then(data => {
     .append("tr")
     .append("th")
     .attr("colspan", "7")
-    .text("Pre-Survey Results");
+    .text("Pre-Survey Results")
+    .style('fill', 'darkOrange');
 
   thead
     .append("tr")

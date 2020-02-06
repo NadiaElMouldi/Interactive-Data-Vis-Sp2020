@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 1em;
+  }
+  
+  section {
+    padding: 1em 0;
+  }
+ 
+  table {
+    border-collapse: collapse;
+  }
+  
+  th {
+    padding: 0 0.5em;
+  }
+  
+  tr {
+    border-bottom: solid 1px #d3d3d3;
+    line-height: 1.75;
+  }
+  
+  td {
+    text-align: right;
+    padding: 0 0.5em;
+    background-color: beige;
+  }
+
+  .gray {
+    background-color: gray;
+  }
+
+  .cinnamon {
+    background-color: #D2691E;
+  }
+
+  .white {
+    background-color: #fffffe;
+  }
+
+  .no_color{
+    background-color: burlywood;
+  }
+
+  .bold{
+    font-weight: 600;
+  }
