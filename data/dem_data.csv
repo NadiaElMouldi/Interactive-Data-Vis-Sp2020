@@ -1,0 +1,175 @@
+country_name,country_id,v2x_polyarchy,v2x_freexp_thick,v2x_gencl,v2x_gencl_val
+Afghanistan,36,0.355225508,0.577000193,0.205885546,Low Women Civil Liberties Index
+Angola,104,0.316668611,0.458824466,0.563822218,High Women Civil Liberties Index
+Albania,12,0.534688685,0.679069348,0.888624007,High Women Civil Liberties Index
+Argentina,37,0.760267793,0.865722784,0.758996651,High Women Civil Liberties Index
+Armenia,105,0.393992342,0.615243336,0.856611028,High Women Civil Liberties Index
+Australia,67,0.886896801,0.950248133,0.932529081,High Women Civil Liberties Index
+Austria,144,0.81335996,0.960025729,0.963769169,High Women Civil Liberties Index
+Azerbaijan,106,0.21325748,0.250241564,0.39079108,Low Women Civil Liberties Index
+Burundi,69,0.19042717,0.294425073,0.22840363,Low Women Civil Liberties Index
+Belgium,148,0.864145208,0.974204771,0.958608348,High Women Civil Liberties Index
+Benin,52,0.730523131,0.845145089,0.941762093,High Women Civil Liberties Index
+Burkina Faso,54,0.733623255,0.900986598,0.756862271,High Women Civil Liberties Index
+Bangladesh,24,0.366859081,0.624967408,0.635839655,High Women Civil Liberties Index
+Bulgaria,152,0.764662196,0.897711858,0.928379691,High Women Civil Liberties Index
+Bosnia and Herzegovina,150,0.336701528,0.754430496,0.80855209,High Women Civil Liberties Index
+Belarus,107,0.297659967,0.353346846,0.817719976,High Women Civil Liberties Index
+Bolivia,25,0.613435485,0.723430838,0.733945105,High Women Civil Liberties Index
+Brazil,19,0.718383316,0.744547748,0.695027329,High Women Civil Liberties Index
+Barbados,147,0.708554344,0.809153646,0.921357057,High Women Civil Liberties Index
+Bhutan,53,0.543548077,0.635242976,0.783213948,High Women Civil Liberties Index
+Botswana,68,0.685132375,0.766319001,0.883414395,High Women Civil Liberties Index
+Central African Republic,71,0.510998304,0.748983482,0.286602965,Low Women Civil Liberties Index
+Canada,66,0.881833554,0.943983125,0.932839652,High Women Civil Liberties Index
+Switzerland,6,0.879442371,0.971197837,0.948047239,High Women Civil Liberties Index
+Chile,72,0.827854264,0.882419057,0.881598779,High Women Civil Liberties Index
+China,110,0.096390107,0.18020029,0.416902315,Low Women Civil Liberties Index
+Ivory Coast,64,0.58054997,0.671487309,0.739142899,High Women Civil Liberties Index
+Cameroon,108,0.356461239,0.687822646,0.670480573,High Women Civil Liberties Index
+Democratic Republic of Congo,111,0.301847659,0.622562421,0.200290774,Low Women Civil Liberties Index
+Republic of the Congo,112,0.271518992,0.413983225,0.516406791,High Women Civil Liberties Index
+Colombia,15,0.680184969,0.828997216,0.646514073,High Women Civil Liberties Index
+Comoros,153,0.48502428,0.745250404,0.809972808,High Women Civil Liberties Index
+Cape Verde,70,0.832799592,0.922479486,0.849081747,High Women Civil Liberties Index
+Costa Rica,73,0.897073637,0.951659135,0.950453352,High Women Civil Liberties Index
+Cuba,155,0.201177724,0.088246835,0.40202078,Low Women Civil Liberties Index
+Cyprus,156,0.822174993,0.937726204,0.877708433,High Women Civil Liberties Index
+Czech Republic,157,0.860139546,0.935381539,0.949702217,High Women Civil Liberties Index
+Germany,77,0.858897678,0.959855556,0.976641732,High Women Civil Liberties Index
+Djibouti,113,0.281636148,0.267534814,0.587145243,High Women Civil Liberties Index
+Denmark,158,0.880622875,0.967883161,0.965791214,High Women Civil Liberties Index
+Dominican Republic,114,0.5793297,0.783709682,0.814884066,High Women Civil Liberties Index
+Algeria,103,0.379221809,0.630647612,0.654056211,High Women Civil Liberties Index
+Ecuador,75,0.624995425,0.776460548,0.867949733,High Women Civil Liberties Index
+Egypt,13,0.216678038,0.169597417,0.270400342,Low Women Civil Liberties Index
+Eritrea,115,0.075395811,0.042247719,0.045795128,Low Women Civil Liberties Index
+Spain,96,0.834678136,0.932754449,0.954912451,High Women Civil Liberties Index
+Estonia,161,0.901886208,0.975599056,0.94821041,High Women Civil Liberties Index
+Ethiopia,38,0.254358385,0.288165371,0.374029169,Low Women Civil Liberties Index
+Finland,163,0.842537131,0.927230777,0.958711936,High Women Civil Liberties Index
+Fiji,162,0.450952005,0.477680842,0.746910693,High Women Civil Liberties Index
+France,76,0.92475308,0.983542728,0.966414287,High Women Civil Liberties Index
+Gabon,116,0.423976077,0.82037653,0.803861641,High Women Civil Liberties Index
+United Kingdom,101,0.858452567,0.960419896,0.912964496,High Women Civil Liberties Index
+Georgia,118,0.76106067,0.884270194,0.780157188,High Women Civil Liberties Index
+Ghana,7,0.682257121,0.891794815,0.85819788,High Women Civil Liberties Index
+Guinea,63,0.444548748,0.691927254,0.411444198,Low Women Civil Liberties Index
+Gambia,117,0.356106968,0.237367951,0.686811683,High Women Civil Liberties Index
+Guinea-Bissau,119,0.544065303,0.752765192,0.604415921,High Women Civil Liberties Index
+Equatorial Guinea,160,0.22333172,0.312984386,0.34803587,Low Women Civil Liberties Index
+Greece,164,0.826637974,0.903893389,0.952051602,High Women Civil Liberties Index
+Guatemala,78,0.66730282,0.775277897,0.504590167,High Women Civil Liberties Index
+Guyana,166,0.659114184,0.736271284,0.848975726,High Women Civil Liberties Index
+Honduras,27,0.494645009,0.68968905,0.732234572,High Women Civil Liberties Index
+Croatia,154,0.713917044,0.756146777,0.904168606,High Women Civil Liberties Index
+Haiti,26,0.463091507,0.859223769,0.735499206,High Women Civil Liberties Index
+Hungary,210,0.676864633,0.746985441,0.899626506,High Women Civil Liberties Index
+Indonesia,56,0.667440583,0.847724513,0.645131414,High Women Civil Liberties Index
+India,39,0.648378181,0.799495711,0.569515838,High Women Civil Liberties Index
+Ireland,81,0.83040561,0.94547611,0.95241152,High Women Civil Liberties Index
+Iran,79,0.229807326,0.364709879,0.337709144,Low Women Civil Liberties Index
+Iraq,80,0.449018185,0.713275278,0.413949777,Low Women Civil Liberties Index
+Iceland,168,0.827156865,0.877391942,0.896652461,High Women Civil Liberties Index
+Israel,169,0.73332625,0.831848012,0.791907557,High Women Civil Liberties Index
+Italy,82,0.830120441,0.921892764,0.940053062,High Women Civil Liberties Index
+Jamaica,120,0.817676751,0.909510578,0.8451263,High Women Civil Liberties Index
+Jordan,83,0.267026447,0.524884976,0.569573863,High Women Civil Liberties Index
+Japan,9,0.789111849,0.853369236,0.943764836,High Women Civil Liberties Index
+Kazakhstan,121,0.258945131,0.354531693,0.80892534,High Women Civil Liberties Index
+Kenya,40,0.534861121,0.83206658,0.492465057,Low Women Civil Liberties Index
+Kyrgyzstan,122,0.506988748,0.751270289,0.776266395,High Women Civil Liberties Index
+Cambodia,55,0.303507849,0.448993808,0.535278235,High Women Civil Liberties Index
+South Korea,42,0.757989561,0.827411545,0.931601711,High Women Civil Liberties Index
+Kuwait,171,0.314681658,0.5726372,0.575768201,High Women Civil Liberties Index
+Laos,123,0.09750593,0.032289769,0.434990064,Low Women Civil Liberties Index
+Lebanon,44,0.546876486,0.788047538,0.53910847,High Women Civil Liberties Index
+Liberia,86,0.642323075,0.851558396,0.836144237,High Women Civil Liberties Index
+Libya,124,0.292349382,0.720494041,0.38015287,Low Women Civil Liberties Index
+Sri Lanka,131,0.65840683,0.838878533,0.834678818,High Women Civil Liberties Index
+Lesotho,85,0.66397608,0.711737089,0.696887483,High Women Civil Liberties Index
+Lithuania,173,0.844636087,0.943757029,0.956951977,High Women Civil Liberties Index
+Latvia,84,0.838127511,0.946396608,0.903319181,High Women Civil Liberties Index
+Morocco,90,0.312949046,0.670724792,0.746053491,High Women Civil Liberties Index
+Moldova,126,0.571811599,0.728605243,0.861553885,High Women Civil Liberties Index
+Madagascar,125,0.485360545,0.785675398,0.679517369,High Women Civil Liberties Index
+Maldives,88,0.390724862,0.468739674,0.422702285,Low Women Civil Liberties Index
+Mexico,3,0.671393888,0.789212079,0.656239449,High Women Civil Liberties Index
+Macedonia,176,0.525475073,0.577385471,0.738713299,High Women Civil Liberties Index
+Mali,28,0.576967119,0.846082407,0.80374576,High Women Civil Liberties Index
+Burma/Myanmar,10,0.405709445,0.588338312,0.408082881,Low Women Civil Liberties Index
+Montenegro,183,0.429300152,0.712069321,0.847169608,High Women Civil Liberties Index
+Mongolia,89,0.677333231,0.875799442,0.837348042,High Women Civil Liberties Index
+Mozambique,57,0.480198587,0.779818678,0.637991139,High Women Civil Liberties Index
+Mauritania,65,0.401741589,0.745784995,0.471143379,Low Women Civil Liberties Index
+Mauritius,180,0.790524829,0.876380362,0.897513311,High Women Civil Liberties Index
+Malawi,87,0.527213916,0.788636403,0.520941871,High Women Civil Liberties Index
+Malaysia,177,0.340331688,0.365514508,0.659171506,High Women Civil Liberties Index
+Namibia,127,0.745571202,0.822236728,0.848706983,High Women Civil Liberties Index
+Niger,60,0.539650022,0.842101611,0.771820878,High Women Civil Liberties Index
+Nigeria,45,0.607508124,0.885200739,0.709394069,High Women Civil Liberties Index
+Nicaragua,59,0.360807128,0.610846892,0.774842201,High Women Civil Liberties Index
+Netherlands,91,0.868407516,0.940654164,0.95867183,High Women Civil Liberties Index
+Norway,186,0.891683903,0.969478582,0.95627511,High Women Civil Liberties Index
+Nepal,58,0.592649371,0.80861376,0.385533429,Low Women Civil Liberties Index
+New Zealand,185,0.863522393,0.936507282,0.946669093,High Women Civil Liberties Index
+Oman,187,0.193952956,0.149873544,0.535687735,High Women Civil Liberties Index
+Pakistan,29,0.427307336,0.780095774,0.275097742,Low Women Civil Liberties Index
+Panama,92,0.748552963,0.830924316,0.881487748,High Women Civil Liberties Index
+Peru,30,0.737402878,0.867958427,0.705291601,High Women Civil Liberties Index
+Philippines,46,0.566226547,0.846050104,0.650401598,High Women Civil Liberties Index
+Papua New Guinea,93,0.463866227,0.817008729,0.633173217,High Women Civil Liberties Index
+Poland,17,0.706681488,0.706541528,0.927854049,High Women Civil Liberties Index
+North Korea,41,0.097210176,0.022732492,0.012083753,Low Women Civil Liberties Index
+Portugal,21,0.872706495,0.953368574,0.932219887,High Women Civil Liberties Index
+Paraguay,189,0.618074724,0.728901538,0.754548557,High Women Civil Liberties Index
+Palestine/West Bank,128,0.221872725,0.633612558,0.728859115,High Women Civil Liberties Index
+Palestine/Gaza,138,0.13668273,0.306304178,0.509769367,High Women Civil Liberties Index
+Qatar,94,0.088392644,0.107463751,0.364801118,Low Women Civil Liberties Index
+Romania,190,0.76755996,0.854497009,0.854148011,High Women Civil Liberties Index
+Russia,11,0.278068357,0.264591477,0.641331477,High Women Civil Liberties Index
+Rwanda,129,0.266135309,0.353724827,0.778132456,High Women Civil Liberties Index
+Saudi Arabia,197,0.027068813,0.156306233,0.190283047,Low Women Civil Liberties Index
+Sudan,33,0.322397151,0.301348469,0.190381664,Low Women Civil Liberties Index
+Senegal,31,0.726264111,0.938821231,0.800090202,High Women Civil Liberties Index
+Singapore,200,0.447807255,0.323007032,0.797740199,High Women Civil Liberties Index
+Solomon Islands,203,0.651984232,0.823199249,0.680262071,High Women Civil Liberties Index
+Sierra Leone,95,0.567464271,0.790121614,0.717261608,High Women Civil Liberties Index
+El Salvador,22,0.661202825,0.833609595,0.667423849,High Women Civil Liberties Index
+Somaliland,139,0.482009121,0.670679906,0.64006444,High Women Civil Liberties Index
+Somalia,130,0.172411105,0.481890816,0.238815748,Low Women Civil Liberties Index
+Serbia,198,0.485578873,0.552291349,0.861293667,High Women Civil Liberties Index
+South Sudan,32,0.181130115,0.108688034,0.116074187,Low Women Civil Liberties Index
+São Tomé och Príncipe,196,0.698956727,0.800314435,0.887606473,High Women Civil Liberties Index
+Suriname,4,0.779054846,0.836974299,0.777427117,High Women Civil Liberties Index
+Slovakia,201,0.797878734,0.878471134,0.889627697,High Women Civil Liberties Index
+Slovenia,202,0.859564628,0.932061104,0.913608825,High Women Civil Liberties Index
+Sweden,5,0.907764276,0.961803498,0.950320893,High Women Civil Liberties Index
+Swaziland,132,0.143088398,0.254242444,0.217321745,Low Women Civil Liberties Index
+Seychelles,199,0.592623777,0.704810878,0.841714888,High Women Civil Liberties Index
+Syria,97,0.148176892,0.069066581,0.177935056,Low Women Civil Liberties Index
+Chad,109,0.29250902,0.640575232,0.502353874,High Women Civil Liberties Index
+Togo,134,0.566610879,0.811745415,0.877814818,High Women Civil Liberties Index
+Thailand,49,0.149119404,0.242374723,0.443524925,Low Women Civil Liberties Index
+Tajikistan,133,0.19072393,0.241763776,0.437027859,Low Women Civil Liberties Index
+Turkmenistan,136,0.153969529,0.035895962,0.285280629,Low Women Civil Liberties Index
+Timor-Leste,74,0.688457166,0.84401248,0.700889736,High Women Civil Liberties Index
+Trinidad and Tobago,135,0.73755897,0.826458326,0.878621183,High Women Civil Liberties Index
+Tunisia,98,0.74371031,0.898664802,0.887284367,High Women Civil Liberties Index
+Turkey,99,0.344613455,0.241263805,0.494303538,Low Women Civil Liberties Index
+Taiwan,48,0.802414049,0.8931277,0.91347892,High Women Civil Liberties Index
+Tanzania,47,0.437411123,0.705953928,0.630342569,High Women Civil Liberties Index
+Uganda,50,0.342032952,0.663016514,0.730433372,High Women Civil Liberties Index
+Ukraine,100,0.359845758,0.579607368,0.769964083,High Women Civil Liberties Index
+Uruguay,102,0.870338976,0.947466277,0.950017159,High Women Civil Liberties Index
+United States,20,0.842688598,0.926774447,0.93371104,High Women Civil Liberties Index
+Uzbekistan,140,0.197366523,0.098268344,0.217908815,Low Women Civil Liberties Index
+Venezuela,51,0.356933387,0.425343639,0.657034733,High Women Civil Liberties Index
+Democratic Republic of Vietnam,34,0.257248526,0.256984448,0.779473989,High Women Civil Liberties Index
+Vanuatu,206,0.666607364,0.875166067,0.787221123,High Women Civil Liberties Index
+Kosovo,43,0.514660602,0.605795268,0.350570917,Low Women Civil Liberties Index
+Yemen,14,0.125207863,0.175306291,0.171246454,Low Women Civil Liberties Index
+South Africa,8,0.743899366,0.854189808,0.756102135,High Women Civil Liberties Index
+Zambia,61,0.396251112,0.549157831,0.656812259,High Women Civil Liberties Index
+Zimbabwe,62,0.325059284,0.399569542,0.526811251,High Women Civil Liberties Index
+Zanzibar,236,0.33632861,0.618433007,0.673605075,High Women Civil Liberties Index

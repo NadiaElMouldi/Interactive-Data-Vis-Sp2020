@@ -4,9 +4,20 @@
     <title>Interactive Data Visualization Tutorial</title>
     <link rel="stylesheet" href="./style.css">
   </head>
+  <header>
+    <h1>Scatterplot of the Electoral Democracy Index and the Freedom of Expression Index by country</h1>
+    <h2>Use the dorpdown to filter by level Women Civil Liberties Index</h2>
+    <h7>This data was obtained from the V Dem (Varieties in Democracies) Database</h7>
+  </header>
   <body>
+    <br>
+    <br>
     <label for="dropdown">Filter Selection</label>
     <select id="dropdown" name="dropdown"></select>
+    <br>
+    <br>
+    <!--<label for="dropdown_dem">Filter Selection</label>-->
+    <!--<select id="dropdown_dem" name="dropdown_dem"></select>-->
     <div id="d3-container"> </div>
     <script src="../lib/d3.js"></script>
     <script src="main.js"></script>
