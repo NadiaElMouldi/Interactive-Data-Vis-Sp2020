@@ -4,10 +4,17 @@
     <title>Interactive Data Visualization Tutorial</title>
     <link rel="stylesheet" href="./style.css">
   </head>
+  <header>
+    <h1>Area Chart of the homeless population in New York by Area between 2009 and 2011</h1>
+  </header>
   <body>
-    Welcome to Interactive Data Visualization Tutorials
-    <label for="dropdown">Filter Selection</label>
+    <label for="dropdown">Do you want the areas to be stacked or separate by boruough?</label>
+    <select id="dropdown2" name="dropdown2"></select>
+    <br>
+    <br>
+    <label for="dropdown">Select an Area to see the count of homeless population</label>
     <select id="dropdown" name="dropdown"></select>
+    <div id="d3-container"> </div>
     <script src="../lib/d3.js"></script>
     <script src="main.js"></script>
   </body>
