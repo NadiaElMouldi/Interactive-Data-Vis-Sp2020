@@ -22,7 +22,7 @@ let state = {
 
 /* LOAD DATA */
 // + SET YOUR DATA PATH
-d3.csv("../../data/homeless_pop.csv", d => ({
+d3.csv("../data/homeless_pop.csv", d => ({
   year: new Date(d.Year, 0, 1),
   area: d.Area,
   count: +d.Homeless_Estimates
