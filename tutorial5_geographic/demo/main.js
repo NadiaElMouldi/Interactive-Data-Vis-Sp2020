@@ -70,7 +70,7 @@ function init() {
 
   // EXAMPLE 1: going from Lat-Long => x, y
   // for how to position a dot
-  const GradCenterCoord = { latitude: 40.7423, longitude: -73.9833 };
+  const GradCenterCoord = [{ latitude: 40.7423, longitude: -73.9833 }, {latitude: 23, longitude: -34}];
   svg
     .selectAll("circle")
     .data([GradCenterCoord])
