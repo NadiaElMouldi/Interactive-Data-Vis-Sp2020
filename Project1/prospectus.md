@@ -4,5 +4,10 @@ In this project, I plan to create a vizualization that allows a user to explore 
 # Data
 #### Restaurant Inspection Result Data
 I will get the Inspection grade data from the DOHMH New York City Restaurant Inspection Results obtained from the NYC Open Data website. This dataset includes "every sustained or not yet adjudicated violation citation from every full or special program inspection conducted up to three years prior to the most recent inspection for restaurants and college cafeterias in an active status on the RECORD DATE ". Each record includes the name, location, type, score, grade and violation type for each restaurant or cafeteria.
+
+[Inspection Results Datasets from NYC Open Data](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j) 
+
 #### Yelp Data
 I will be using the Yelp API to retrieve the rating data for each restaurant from the data. Tha API allows to search businesses using their location.
+
+[Yelp API Page](https://www.yelp.com/developers/documentation/v3/business_search)
